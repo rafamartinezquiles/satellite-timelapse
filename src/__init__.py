@@ -1,1 +1,0 @@
-# The only functionality of this file is to make src a complete package
