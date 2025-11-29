@@ -5,7 +5,7 @@ import pystac_client
 from odc.stac import stac_load
 import xarray as xr
 
-from . import settings
+import settings
 
 
 def query_items(
