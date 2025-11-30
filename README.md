@@ -67,3 +67,4 @@ streamlit run src/app.py
 
 After initiating the pipeline, the system will query the Planetary Computer catalog, load the relevant Sentinel-2 scenes, compute the selected visualization or NDVI analytics, and assemble a time-ordered stack of frames. When processing is complete, an MP4 time-lapse video will be displayed directly in the interface along with an option to download the final output.
 
+![](images/sentinel_timelapse.gif)
